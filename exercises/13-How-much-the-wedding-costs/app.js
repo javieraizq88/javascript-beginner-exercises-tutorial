@@ -13,6 +13,7 @@ else if (number > 200) price = 20000;
 console.log('Your wedding will cost '+price+' dollars');
 
 
+//OPCION 2
 
 // let userInput = prompt('How many people are comming to your wedding?');
 
